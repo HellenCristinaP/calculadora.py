@@ -1,5 +1,6 @@
 # Calculadora
   - [Introdução](#introdução)
+    - [Aperfeiçoamento](#aperfeiçoamento)
 
 ## Introdução
 
@@ -7,3 +8,6 @@ Criei uma calculadora em Python que armazena todos os números digitados e exibe
 
 ![Parte do código](./partedcod.png)
 
+## Aperfeiçoamento
+
+_Em andamento_
